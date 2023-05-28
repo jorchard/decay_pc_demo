@@ -1,7 +1,7 @@
 # decay_pc_demo
 Demonstrates the generative properties of predictive coding networks when using weight decay and value=node decay. It implements the methods published in the paper
 
-
+> W Sun, J Orchard, “[A Predictive-Coding Network That Is Both Discriminative and Generative](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01311){:target="_blank”}, *Neural Computation*, 32(10):1836-1862, October 2020. ([pdf](http://www.cs.uwaterloo.ca/~jorchard/academic/SunOrchard_NECO2020.pdf){:target="_blank})
 
 This code uses PyTorch.
 
